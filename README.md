@@ -59,50 +59,14 @@ The non-trival dependencies to be installed
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Although the model has beed tested on the test dataset provided in the Kaggle competition. The usage case be further 
+Although the model has beed tested on the test dataset provided in the Kaggle competition. The usage case can earn more credibility if more data is used or can be tested with more patient skin lesion images. Interestingly i tried with my skin image! it gave a prediction of 0.615 which refers to a false positve. I will be working on that for further improvement.
 
 For more about early detection of melanoma, please refer to this (https://www.sciencedaily.com/releases/2017/10/171017091900.htm)
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- References -->
+## References
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
