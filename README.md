@@ -38,9 +38,8 @@
 
 ### Built With
 
-* [Pytorch](https://getbootstrap.com)
-* [HTML, CSS](https://jquery.com)
-* [Flask](https://laravel.com)
+* [Pytorch](https://pytorch.org/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 
 
