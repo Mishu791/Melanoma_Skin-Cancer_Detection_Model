@@ -54,30 +54,14 @@ The non-trival dependencies to be installed
   !pip install pretrainedmodels
   ```
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Although the model has beed tested on the test dataset provided in the Kaggle competition. The usage case be further 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+For more about early detection of melanoma, please refer to this (https://www.sciencedaily.com/releases/2017/10/171017091900.htm)
 
 
 
