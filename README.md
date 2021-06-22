@@ -30,7 +30,7 @@
 ## About The Project
 ![deep](https://github.com/Mishu791/Melanoma_Skin-Cancer_Detection_Model/blob/master/images/deep.png)
 
-In this project we created a model to identify melanoma in images of skin lesions. And after that we also deployed in the google cloud for serving this as a web application for early detection of skin cancer of users. In particular, we used images within the same patient and determine which are likely to represent a melanoma. Using patient-level contextual information may help the development of image analysis tools, which could better support clinical dermatologists.
+In this project we created a model to identify melanoma in images of skin lesions. And after that we also deployed it in Google Cloud for serving this as a web application for early detection of skin cancer of users. In particular, we used images within the same patient and determine which are likely to represent a melanoma. Using patient-level contextual information may help the development of image analysis tools, which could better support clinical dermatologists.
 
 Melanoma is a deadly disease, but if caught early, most melanomas can be cured with minor surgery. Image analysis tools that automate the diagnosis of melanoma will improve dermatologists' diagnostic accuracy. Better detection of melanoma has the opportunity to positively impact millions of people.
 
