@@ -30,24 +30,16 @@
 ## About The Project
 ![deep](https://github.com/Mishu791/Melanoma_Skin-Cancer_Detection_Model/blob/master/images/deep.png)
 
+In this project we created a model to identify melanoma in images of skin lesions. And after that we also deployed in the google cloud for serving this as a web application for early detection of skin cancer of users. In particular, we used images within the same patient and determine which are likely to represent a melanoma. Using patient-level contextual information may help the development of image analysis tools, which could better support clinical dermatologists.
+Melanoma is a deadly disease, but if caught early, most melanomas can be cured with minor surgery. Image analysis tools that automate the diagnosis of melanoma will improve dermatologists' diagnostic accuracy. Better detection of melanoma has the opportunity to positively impact millions of people.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+The dataset has been obtained from Kaggle. (https://www.kaggle.com/c/siim-isic-melanoma-classification/data) 
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Pytorch](https://getbootstrap.com)
+* [HTML, CSS](https://jquery.com)
+* [Flask](https://laravel.com)
 
 
 
