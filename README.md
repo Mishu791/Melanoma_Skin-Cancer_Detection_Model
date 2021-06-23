@@ -62,4 +62,4 @@ For more about early detection of melanoma, please refer to this (https://www.sc
 ## References
 * [Melanoma Classification](https://www.kaggle.com/ibtesama/melanoma-classification-with-attention)
 * [Albumentation](https://albumentations.ai/docs/examples/pytorch_classification/)
-* [wtfml] (https://github.com/abhishekkrthakur/wtfml)
+* [wtfml](https://github.com/abhishekkrthakur/wtfml)
